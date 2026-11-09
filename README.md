@@ -46,6 +46,5 @@ Great software is the result of deep collaboration. Here are the types of challe
 Whether you want to exchange ideas on software architecture, explore how to streamline an operational process, or collaborate on a project:
 
 - [Connect on LinkedIn](https://www.linkedin.com/in/joao-vinicius/)
-- Reach out via email: `joaoviniciusdp@gmail.com`
 
 *Let's build dependable tools that make a real difference for people.*
